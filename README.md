@@ -1,2 +1,2 @@
 # TemplateWordpress
-Template para o Wordpress, feito com PHP, JavaScript, HTML  e CSS
+Template para o Wordpress, feito com PHP, JavaScript, HTML  e CSS.
